@@ -1,12 +1,20 @@
-# GLKC-NeuroImaging-Repository
+# GLKC NeuroImaging Repository
 
-GLKC NeuroImaging by Gabriella Blissett (PhD Student, Newcastle Australia).
-This repository contains materials researchers may find useful when choosing or training a method to analyse CNS cells, including microglia, astrocytes, oligodendrocytes, and/or neurons. 
+GLKC NeuroImaging by Gabriella Kennedy-Clark (PhD Candidate, University of Newcastle, Australia).
 
-I am currently in the process of consolidating my methods for CNS cell segmentation/measurement, so WATCH THIS SPACE!
+This repository contains open-source plugins, supplementary materials, methodological resources, and workflow documentation associated with published and ongoing bioimaging research.
 
-However, if you do have  questions, I a more than happy to point you in the right diection of Open Source methods currently avaliable:
+While many resources were originally developed for CNS cell imaging and analysis — including microglia, astrocytes, oligodendrocytes, and neurons — the workflows and tools are broadly applicable across multiple forms of microscopy and bioimaging research.
+
+The broader goal of this repository is to improve the reproducibility, accessibility, and standardisation of microscopy and image-analysis workflows using open-source platforms such as FIJI/ImageJ. 
+
+I am currently consolidating and validating multiple image-analysis and segmentation workflows as part of ongoing PhD research and upcoming publications — so watch this space!
+
+## Questions or Collaboration
+
 gabriella.blissett@uon.edu.au
 
-Or follow me on LinkedIN
-https://www.linkedin.com/in/gabriella-blissett-072b53281/?originalSubdomain=au
+## Connect
+
+LinkedIn:
+https://www.linkedin.com/in/gabriella-blissett-072b53281/

@@ -1,6 +1,6 @@
-# GLKC NeuroImaging Repository
+# GLKC Lab Repository
 
-GLKC NeuroImaging by Gabriella Kennedy-Clark (PhD Candidate, University of Newcastle, Australia).
+GLKC Lab by Gabriella Kennedy-Clark (PhD Candidate, University of Newcastle, Australia).
 
 This repository contains open-source plugins, supplementary materials, methodological resources, and workflow documentation associated with published and ongoing bioimaging research.
 
@@ -10,11 +10,7 @@ The broader goal of this repository is to improve the reproducibility, accessibi
 
 I am currently consolidating and validating multiple image-analysis and segmentation workflows as part of ongoing PhD research and upcoming publications — so watch this space!
 
-## Questions or Collaboration
-
-gabriella.blissett@uon.edu.au
-
 ## Connect
 
 LinkedIn:
-https://www.linkedin.com/in/gabriella-blissett-072b53281/
+(https://www.linkedin.com/in/gabriella-kennedy-clark-072b53281/)
